@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|c:\\users\\darya\\desktop\\ayhan13\\ef\\ef\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|solutionrelative:ef\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|c:\\users\\darya\\desktop\\ayhan13\\ef\\ef\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|solutionrelative:ef\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|c:\\users\\darya\\desktop\\ayhan13\\ef\\ef\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|solutionrelative:ef\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|c:\\users\\darya\\desktop\\ayhan13\\ef\\ef\\constants\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|solutionrelative:ef\\constants\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|c:\\users\\darya\\desktop\\ayhan13\\ef\\ef\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|solutionrelative:ef\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|c:\\users\\darya\\desktop\\ayhan13\\ef\\ef\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|solutionrelative:ef\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|c:\\users\\darya\\desktop\\ayhan13\\ef\\ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|solutionrelative:ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|c:\\users\\darya\\desktop\\ayhan13\\ef\\ef\\constants\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|solutionrelative:ef\\constants\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|c:\\users\\darya\\desktop\\ayhan13\\ef\\ef\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|solutionrelative:ef\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|c:\\users\\darya\\desktop\\ayhan13\\ef\\ef\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|solutionrelative:ef\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|c:\\users\\darya\\desktop\\ayhan13\\ef\\ef\\extensions\\charextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|solutionrelative:ef\\extensions\\charextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|c:\\users\\darya\\desktop\\ayhan13\\ef\\ef\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|solutionrelative:ef\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|c:\\users\\darya\\desktop\\ayhan13\\ef\\ef\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9DF19C-206A-4AB9-B6DF-B135C6F7F729}|EF\\EFCoreWithEntity.csproj|solutionrelative:ef\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Constants\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "EF\\Constants\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Constants\\ConnectionStrings.cs",
+              "RelativeToolTip": "EF\\Constants\\ConnectionStrings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T22:37:18.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "EF\\Services\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Services\\TeacherService.cs",
+              "RelativeToolTip": "EF\\Services\\TeacherService.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwFQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:07:12.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Services\\GroupService.cs",
+              "RelativeDocumentMoniker": "EF\\Services\\GroupService.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Services\\GroupService.cs",
+              "RelativeToolTip": "EF\\Services\\GroupService.cs",
+              "ViewState": "AQIAABgBAAAAAAAAAAAAAB4BAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:52:50.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EF\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "EF\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T22:37:22.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "EF\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Services\\StudentService.cs",
+              "RelativeToolTip": "EF\\Services\\StudentService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAWwLQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T22:33:40.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "EF\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Entities\\Teacher.cs",
+              "RelativeToolTip": "EF\\Entities\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:27:08.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Program.cs",
+              "RelativeDocumentMoniker": "EF\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Program.cs",
+              "RelativeToolTip": "EF\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:39:54.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Constants\\Operations.cs",
+              "RelativeDocumentMoniker": "EF\\Constants\\Operations.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Constants\\Operations.cs",
+              "RelativeToolTip": "EF\\Constants\\Operations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:12:51.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "EF\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Entities\\Student.cs",
+              "RelativeToolTip": "EF\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:05:47.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Constants\\Messages.cs",
+              "RelativeDocumentMoniker": "EF\\Constants\\Messages.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Constants\\Messages.cs",
+              "RelativeToolTip": "EF\\Constants\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:04:38.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CharExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Extensions\\CharExtensions.cs",
+              "RelativeDocumentMoniker": "EF\\Extensions\\CharExtensions.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Extensions\\CharExtensions.cs",
+              "RelativeToolTip": "EF\\Extensions\\CharExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T22:36:53.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "EF\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "EF\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T22:37:25.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Entities\\Group.cs",
+              "RelativeDocumentMoniker": "EF\\Entities\\Group.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\EF\\EF\\Entities\\Group.cs",
+              "RelativeToolTip": "EF\\Entities\\Group.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:56:10.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
